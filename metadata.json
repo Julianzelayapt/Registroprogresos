@@ -1,0 +1,5 @@
+{
+  "name": "FitProgress Tracker",
+  "description": "A fitness tracking application for clients to view their weekly weights and monthly progress percentages, featuring an email report parser.",
+  "requestFramePermissions": []
+}
